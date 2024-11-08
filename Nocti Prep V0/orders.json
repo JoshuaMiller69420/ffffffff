@@ -1,0 +1,98 @@
+[
+    {
+        "cust_name": "Barbara Feldon",
+        "shipping": 0,
+        "orders": [
+            {
+                "product": "Portable force feild unit",
+                "selling_price": 199.99,
+                "cost_to_produce": 125.99,
+                "qty": 1
+            },
+            {
+                "product": "Inflatable head in a cloak",
+                "selling_price": 59.99,
+                "cost_to_produce": 25.59,
+                "qty": 2
+            }
+        ]
+    },
+    {
+        "cust_name": "Edward Platt",
+        "shipping": 13.32,
+        "orders": [
+            {
+                "product": "Shoe gas mask",
+                "selling_price": 149.99,
+                "cost_to_produce": 87.79,
+                "qty": 3
+            },
+            {
+                "product": "Inflatable head in a cloak",
+                "selling_price": 59.99,
+                "cost_to_produce": 25.59,
+                "qty": 1
+            },
+            {
+                "product": "Plastic Lips",
+                "selling_price": 3.99,
+                "cost_to_produce": 0.99,
+                "qty": 5
+            }
+        ]
+    },
+    {
+        "cust_name": "Bernie Kopell",
+        "shipping": 15.61,
+        "orders": [
+            {
+                "product": "Shoe gas mask",
+                "selling_price": 149.99,
+                "cost_to_produce": 87.79,
+                "qty": 2
+            },
+            {
+                "product": "Portable force feild unit",
+                "selling_price": 199.99,
+                "cost_to_produce": 125.99,
+                "qty": 2
+            },
+            {
+                "product": "Plastic Lips",
+                "selling_price": 3.99,
+                "cost_to_produce": 0.99,
+                "qty": 3
+            }
+        ]
+    },
+    {
+        "cust_name": "Robert Karvelas ",
+        "shipping": 15.61,
+        "orders": [
+            {
+                "product": "Shoe gas mask",
+                "selling_price": 149.99,
+                "cost_to_produce": 87.79,
+                "qty": 1
+            },
+            {
+                "product": "Portable force feild unit",
+                "selling_price": 199.99,
+                "cost_to_produce": 125.99,
+                "qty": 1
+            },
+            {
+                "product": "Plastic Lips",
+                "selling_price": 3.99,
+                "cost_to_produce": 0.99,
+                "qty": 1
+            },
+            {
+                "product": "Inflatable head in a cloak",
+                "selling_price": 59.99,
+                "cost_to_produce": 25.59,
+                "qty": 1
+            }
+        ]
+    }
+]
